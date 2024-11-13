@@ -1,0 +1,45 @@
+.hero{
+    height: 89vh;
+    /* shorthand background-image/repeat/position/size */
+    background: url('/Screenshot_20221220_233218_One\ UI\ Home.jpg')no-repeat center center/cover;
+}
+.hero h1,
+.hero p{
+    color: white;
+}
+.hero h1,
+.hero p{
+    font-size: 60px;
+}
+.hero p{
+    font-size: 40px;
+}
+.btn{
+    background-color: green;
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    font-weight: 900;
+    padding: 20px;
+
+}
+.main{
+    text-align: center;
+    background-color: aquamarine;
+    color: red;
+    height: 70px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 200px;
+    border-top: 13px solid brown;
+    border-left: 13px solid red;
+
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    border-radius: 50% ;
+
+}
